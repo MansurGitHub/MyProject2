@@ -1,2 +1,1 @@
-
 Changes done for GitHub & Jira integration. 
